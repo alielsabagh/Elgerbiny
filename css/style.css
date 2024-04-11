@@ -1678,6 +1678,9 @@ color: #ff274b;
 }
 
 
+img.openItem{
+  width: 60%;
+}
 
 
 
@@ -1961,9 +1964,6 @@ font-size: 17px;
   margin-top: 40px;
 }
 
-img.openItem{
-  width: 60%;
-}
 
 .tat{
   color: #000;
