@@ -1772,6 +1772,8 @@ color: #ff274b;
 .portfolio-content img{
   width: 50%;
 }
+img.openItem{
+     width: 100%;
 }
   
 
