@@ -1966,3 +1966,14 @@ img.openItem{
 .tat{
   color: #000;
 }
+
+@media only screen
+and (min-device-width : 1024px)
+and (max-device-width : 1076px)
+{ 
+
+  #actions{
+    font-size: 14px;
+  }
+
+}
