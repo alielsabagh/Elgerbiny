@@ -1980,4 +1980,13 @@ and (max-device-width : 1076px)
     font-size: 14px;
   }
 
+	
+@media (max-height:728px){
+  .HI{
+    margin-top: 68px;  }
+    .pic{
+      margin-top: 20px;
+    }
+}
+
 }
