@@ -1761,13 +1761,13 @@ img.openItem{
 .gargr{
   font-size: 12px;
   margin-bottom: 2px;
-  line-height: 19px;
+  line-height: 13px;
   width: 203%;
 }
 .marmr{
   width: 180%;
   line-height: 19px;
-/*   font-size: 13px; */
+  font-size: 13px;
 }
 .openItem {
   width: 60%;
