@@ -1679,7 +1679,7 @@ color: #ff274b;
 
 
 img.openItem{
-  width: 60%;
+  width: 67%;
 }
 
 
@@ -1775,8 +1775,10 @@ img.openItem{
 .portfolio-content img{
   width: 50%;
 }
-img.openItem{
-     width: 100%;
+img.openItem {
+    width: 100%;
+}
+
 }
   
 
