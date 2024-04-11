@@ -707,7 +707,7 @@ h3 {
   display: block;
   width:33px;
   height: 4px;
-  background-color: var(--bgcolore-1);
+  background-color: white;
   border-radius: 6px;
   transform-origin: 0 0;
   transition: 0.4s;
