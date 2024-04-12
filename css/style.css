@@ -1683,6 +1683,10 @@ img.openItem{
 }
 
 
+a{
+  color: white;
+}
+
 
    /***************************** MEDIA QUEIRES **************************** */
    @media screen and (max-width:575px ) {
